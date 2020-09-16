@@ -1,0 +1,12 @@
+.postDetail{
+    text-align: center;
+    left : 20%;
+    margin : 50px;
+    border: 2px solid #3498db;
+    border-radius: 3px;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.backBtn{
+    margin-bottom: 25px !important;
+}
